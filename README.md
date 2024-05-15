@@ -1,37 +1,3 @@
-<h1>Homework #3</h1>
-
-<h3>Submission instructions: </h3>
-
-  1.  Fork this repo.
-  2.  Clone your version of the homework into you local development environment.
-  ```console 
-    git clone <url>
-  ```
-  3.  Create a branch with your name, the following commands might help you:
-  ```console
-  // Create the branch
-  git branch firstname-lastname
-  
-  // Checkout the branch
-  git checkout firstname-lastname
-  
-  //
-  /// Add your files that you will solve the hw in
-  //
-  
-  // Add your new files to the staging level
-  git add .
-  
-  // Commit you staged files
-  git commit -am "solve: descriptive meassge"
-  
-  // Push your branch
-  git push --set-upstream origin firstname-lastname
-  ```
-  5.  Create a PR containing your solution to the homework original repo
-    
-    
-  
 # Details
 
 1. Define two constants, one of type integer for phone number and another of type string for your name.
@@ -55,10 +21,3 @@ and print all the details.
 13. Develop a class called `"House"` with the properties `"id"`,
 `"name"`, and `"price"`, and create a constructor for it. Generate three objects of this class, add them to a list, and print all the details.
 14. Create a class called `"Camera"` with private properties `"id"`, `"brand"`, `"color"`, and `"price"`. Generate a getter and a setter method for accessing and updating the values. Finally, create three objects of this class and print all the details.
-
-# Deadline
-
-Submit by 8/5/2023 10:00 AM
-
-# Note
-Make sure that the name of the PR is your `firstname lastname`
