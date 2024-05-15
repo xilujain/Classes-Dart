@@ -5,31 +5,31 @@ class Camera {
   int? _price;
 
   get getID {
-    return this._id;
+    return _id;
   }
   set setID(int? id) {
-    this._id = id;
+    _id = id;
   }
 
   get getBrand {
-    return this._brand;
+    return _brand;
   }
   set setBrand(String? brand) {
-    this._brand = brand;
+    _brand = brand;
   }
 
   get getColor {
-    return this._color;
+    return _color;
   }
   set setColor(String? color) {
-    this._color = color;
+    _color = color;
   }
 
   get getPrice {
-    return this._price;
+    return _price;
   }
   set setPrice(int? price) {
-    this._price = price;
+    _price = price;
   }
 
   Camera(this._id, this._brand, this._color, this._price);

@@ -6,8 +6,8 @@ import 'camera.dart';
 
 void main(List<String> arguments) {
   // Q1:
-  int phoneNumber = 0553518889;
-  String name = "lujain salah";
+  int phoneNumber = 0000000000;
+  String name = "YOUR PHONE NUMBER";
 
   // Q2:
   print("Enter the height: ");

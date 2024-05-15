@@ -1,4 +1,4 @@
-import 'package:hw3_lujain_salah/hw3_lujain_salah.dart';
+import 'package:main/main.dart';
 import 'package:test/test.dart';
 
 void main() {
